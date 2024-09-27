@@ -12,7 +12,7 @@
     padding: 10px;
     position: sticky;
     background-color: rgb(165, 158, 158);
-    z-index: 100%;
+    z-index: 1;
     top: 0;
 
 }
